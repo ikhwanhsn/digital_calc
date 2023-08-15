@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: darkcyan;
+}
+
+.container {
+  /* width: 400px !important; */
+}
+
+/* .hide-menu {
+  width: 200px;
+  height: 50px;
+  position: absolute;
+  background-color: red;
+} */
+
+.number {
+  line-height: 50px;
+}
+
+/* .button:hover,
+.button.clicked {
+  background-color: red;
+} */
